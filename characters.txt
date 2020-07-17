@@ -5,4 +5,8 @@ pedagro
 grandpa 
 grandma
 mommy
+
+uncle 
+aunty
+
 daddypig
